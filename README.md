@@ -1,4 +1,4 @@
-# 🧠✨ **Machine Learning en Salud - Jesús David Silva Rangel** 🏥📊
+# 🧠✨ **Machine Learning Healthcare - Jesús David Silva Rangel** 🏥📊
 
 ¡Bienvenidos a mi repositorio! 🚀 Aquí encontrarás proyectos dedicados a aplicar **Machine Learning** en el campo de la **salud** 🩺, con un enfoque en el análisis de datos médicos y soluciones innovadoras para mejorar la atención sanitaria. 🌍💡
 
